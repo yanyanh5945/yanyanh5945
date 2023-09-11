@@ -24,7 +24,7 @@ Hello, my name is Yanyan Hu and I am pursuing my Ph.D. degree in Electrical Engi
 - 🌱 I’m currently learning Generative AI, LLM, Diffusion Models
 <!-- - 🤔 I’m looking for help with 3D Bayesian inversion, especially using unstructure mesh -->
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Yanyan-Hu), [Google Scholar](https://scholar.google.com/citations?user=4I85QsoAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/yanyan-hu-14583a1a1/)
-- 📝 [Portfolio](yanyanh5945.github.io)
+- 📝 [Portfolio](https://yanyanh5945.github.io/)
 
 **Languages and Tools:** 
 
