@@ -21,7 +21,7 @@ Hello, my name is Yanyan Hu and I am pursuing my Ph.D. degree in Electrical Engi
 - 🔭 I'm currently working on deep perceptual losses for multi-physics joint imaging
 - 💬 Ask me about deep learning, CNN, RNN, GNN and joint inversion theory
 <!-- - 👯 I’m currently collaboratively working on Antarctic geophysical imaging -->
-- 🌱 I’m currently learning Generative AI, Diffusion Models
+- 🌱 I’m currently learning Generative AI, Large Language Models (LLMs), Diffusion Models
 <!-- - 🤔 I’m looking for help with 3D Bayesian inversion, especially using unstructure mesh -->
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Yanyan-Hu), [Google Scholar](https://scholar.google.com/citations?user=4I85QsoAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/yanyan-hu-14583a1a1/)
 - 📝 [Portfolio](https://yanyanh5945.github.io/)
